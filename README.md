@@ -1,2 +1,2 @@
-# sureshmasa.webtest.github.io
+# sureshmasa.github.io
 web for webtests hosting validation
